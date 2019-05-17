@@ -1,0 +1,24 @@
+header {
+  background-color: #323232;
+  color: #ffffff;
+}
+.smith-anderson {
+  background-color: #2eb398;
+}
+.feedback {
+  background-color: #323232;
+  color: #ffffff;
+}
+.feedback input,
+.feedback textarea {
+  background-color: #454545;
+  border: none;
+}
+.feedback button {
+  background-color: #2eb398;
+  border: none;
+}
+footer {
+  background-color: #222222;
+  color: #454545;
+}
